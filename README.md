@@ -32,7 +32,9 @@ This project is licensed under the MIT license, please see the file [LICENSE][li
 Razer is a trademark and/or a registered trademark of Razer USA Ltd.  
 All other trademarks are property of their respective owners.
 
+
+[wolfspiritm]: https://github.com/wolfspiritm
+[njbmartin]: https://github.com/njbmartin
+[colore]: https://github.com/CoraleStudios/Colore
 [license]: ../../blob/master/LICENSE
 [newpull]: ../../pull/new/develop
-[wolfspiritm]: https://github.com/wolfspiritm
-[colore]: https://github.com/CoraleStudios/Colore
