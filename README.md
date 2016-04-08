@@ -3,7 +3,7 @@ Working Draft: 8th April 2016
 
 ##What is RCAML?
 
-Razer Chroma Animation Markup Language (RCAML) is an declarative language, suggested and initiated by [Adrian][wolfspiritm]. Specifically, RCAML is an initiativoe to create a common language for declaring animations for Razer Chroma peripherals via hierarchical structure. RCAML files can be freely created, edited and distributed by any person to be used in any applications that support it.
+Razer Chroma Animation Markup Language (RCAML) is an declarative language, suggested and initiated by [@wolfspiritm][wolfspiritm]. Specifically, RCAML is an initiativoe to create a common language for declaring animations for Razer Chroma peripherals via hierarchical structure. RCAML files can be freely created, edited and distributed by any person to be used in any applications that support it.
 
 When you see them as part of your projects, RCAML files are essentially XML files with the .rcaml file name extension.
 
